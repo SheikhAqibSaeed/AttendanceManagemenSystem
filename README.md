@@ -122,31 +122,18 @@ Calculated Salary = Total Working Hours × Hourly Rate
 - **Frontend (web-ams)**: `http://localhost:3000`
 
 Login with the seeded admin user or with any users created via the admin panel.
-<img width="1912" height="969" alt="Screenshot_6" src="https://github.com/user-attachments/assets/e7aa6417-7d40-4334-906d-84ae4cbcde94" />
+Admin
 <img width="1912" height="969" alt="Screenshot_6" src="https://github.com/user-attachments/assets/e7aa6417-7d40-4334-906d-84ae4cbcde94" />
 <img width="1917" height="943" alt="Screenshot_5" src="https://github.com/user-attachments/assets/627edc5b-7e87-464a-b4f0-ecda6b28534c" />
-<img width="1917" height="943" alt="Screenshot_5" src="https://github.com/user-attachments/assets/627edc5b-7e87-464a-b4f0-ecda6b28534c" />
-<img width="1919" height="856" alt="Screenshot_4" src="https://github.com/user-attachments/assets/d93b5196-e0b3-4f03-b937-0928ee2044d3" />
 <img width="1919" height="856" alt="Screenshot_4" src="https://github.com/user-attachments/assets/d93b5196-e0b3-4f03-b937-0928ee2044d3" />
 <img width="1910" height="921" alt="Screenshot_3" src="https://github.com/user-attachments/assets/36f72c53-5803-4cab-a56c-d818770e1a53" />
-<img width="1910" height="921" alt="Screenshot_3" src="https://github.com/user-attachments/assets/36f72c53-5803-4cab-a56c-d818770e1a53" />
-<img width="1912" height="853" alt="Screenshot_2" src="https://github.com/user-attachments/assets/818674ff-67c8-40a1-807d-03896632e0b2" />
 <img width="1912" height="853" alt="Screenshot_2" src="https://github.com/user-attachments/assets/818674ff-67c8-40a1-807d-03896632e0b2" />
 <img width="1916" height="958" alt="Screenshot_1" src="https://github.com/user-attachments/assets/03899488-4bd8-4e2c-a774-cc2836915015" />
-<img width="1916" height="958" alt="Screenshot_1" src="https://github.com/user-attachments/assets/03899488-4bd8-4e2c-a774-cc2836915015" />
 <img width="1917" height="866" alt="login" src="https://github.com/user-attachments/assets/c34aa81c-c97b-4c79-a3f2-15ef4d61195c" />
-<img width="1917" height="866" alt="login" src="https://github.com/user-attachments/assets/c34aa81c-c97b-4c79-a3f2-15ef4d61195c" />
-
-<img width="1912" height="958" alt="Screenshot_5" src="https://github.com/user-attachments/assets/d368aa8f-e685-4d85-a016-4d02d93ee2d6" />
+Employees
 <img width="1912" height="958" alt="Screenshot_5" src="https://github.com/user-attachments/assets/d368aa8f-e685-4d85-a016-4d02d93ee2d6" />
 <img width="1919" height="907" alt="Screenshot_4" src="https://github.com/user-attachments/assets/888dd622-edcb-4505-ba19-fdeff81cb50b" />
-<img width="1919" height="907" alt="Screenshot_4" src="https://github.com/user-attachments/assets/888dd622-edcb-4505-ba19-fdeff81cb50b" />
 <img width="1908" height="839" alt="Screenshot_3" src="https://github.com/user-attachments/assets/6fdfdab1-cccf-40bc-a093-bcf72bd2a91e" />
-<img width="1908" height="839" alt="Screenshot_3" src="https://github.com/user-attachments/assets/6fdfdab1-cccf-40bc-a093-bcf72bd2a91e" />
-<img width="1919" height="963" alt="Screenshot_2" src="https://github.com/user-attachments/assets/be5f1101-02c2-49f4-887b-c6bf55500aab" />
-<img width="1919" height="963" alt="Screenshot_2" src="https://github.com/user-attachments/assets/be5f1101-02c2-49f4-887b-c6bf55500aab" />
 <img width="1910" height="967" alt="Screenshot_1" src="https://github.com/user-attachments/assets/0ac95208-02ee-4c53-88a5-ff7f8b44ba63" />
-<img width="1910" height="967" alt="Screenshot_1" src="https://github.com/user-attachments/assets/0ac95208-02ee-4c53-88a5-ff7f8b44ba63" />
-<img width="1919" height="869" alt="login" src="https://github.com/user-attachments/assets/6f6883bb-7218-427d-8770-7c545e82da64" />
 <img width="1919" height="869" alt="login" src="https://github.com/user-attachments/assets/6f6883bb-7218-427d-8770-7c545e82da64" />
 
