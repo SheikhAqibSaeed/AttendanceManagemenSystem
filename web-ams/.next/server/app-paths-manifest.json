@@ -1,0 +1,8 @@
+{
+  "/(protected)/employees/page": "app/(protected)/employees/page.js",
+  "/(protected)/attendance-records/page": "app/(protected)/attendance-records/page.js",
+  "/(protected)/employees/add/page": "app/(protected)/employees/add/page.js",
+  "/(protected)/reports/page": "app/(protected)/reports/page.js",
+  "/(protected)/salary-report/page": "app/(protected)/salary-report/page.js",
+  "/(protected)/dashboard/page": "app/(protected)/dashboard/page.js"
+}
